@@ -41,7 +41,7 @@ header{
     width: 25rem;
     height:50rem;
     position: absolute;
-    transform: rotate(45deg);
+    transform: rotate(20deg);
     /* transform: rotate(7deg); */
     left: calc(50%-11rem);
     margin-top: 4rem;
