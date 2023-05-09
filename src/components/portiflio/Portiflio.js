@@ -6,6 +6,9 @@ import img3 from '../../assets/img3.png'
 import img4 from '../../assets/img4.png'
 import img5 from "../../assets/img5 .png"
 import todoApp from "../../assets/todoApp.png"
+import dashboard from "../../assets/car-dashboard.png"
+import rent from "../../assets/car-rent.png"
+import restaurant  from "../../assets/reasturant-ui.png"
 
 const Portiflio = () => {
 
@@ -52,7 +55,32 @@ const Portiflio = () => {
       github:'https://github.com/AndargWorku',
       demo:'https://andargworku.github.io/todoApp/'
 
-    }
+    },
+    {
+      id:7,
+      image:dashboard,
+      title:'car rent dashboard',
+      github:'https://github.com/AndargWorku/rent-dashboard.git',
+      demo:'https://rent-dashboard.vercel.app/dashboard'
+
+    },
+    {
+      id:8,
+      image:rent,
+      title:'car rent responsive ',
+      github:'https://github.com/AndargWorku/cars.git',
+      demo:'https://cars-three-psi.vercel.app/home'
+
+    },
+    {
+      id:9,
+      image:restaurant,
+      title:'restaurant website',
+      github:'https://github.com/AndargWorku/resturant-food.git',
+      demo:'https://resturant-food.vercel.app/'
+
+    },
+    
   ]
   return (
       <section id="portfolio">

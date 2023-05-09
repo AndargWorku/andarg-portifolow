@@ -8,6 +8,7 @@ header{
     text-align: center;
     height: 100%;
     position: relative;
+    /* gitevery thing is done */
     
 } 
 
@@ -41,7 +42,7 @@ header{
     width: 25rem;
     height:50rem;
     position: absolute;
-    transform: rotate(20deg);
+    transform: rotate(10deg);
     /* transform: rotate(7deg); */
     left: calc(50%-11rem);
     margin-top: 4rem;
